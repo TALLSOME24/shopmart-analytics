@@ -21,7 +21,7 @@
 
 ## 🔄 Current Sprint
 **Sprint 1** — Onboarding & First Analysis  
-Status: ✅ Sprint 2 Complete | 🟡 Sprint 3 Starting
+Status: ✅ Sprint 3 Complete
 
 ---
 
