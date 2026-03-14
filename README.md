@@ -20,7 +20,7 @@
 ---
 
 ## 🔄 Current Sprint
-**Sprint 1** — Onboarding & First Analysis  
+**Sprint 3** — Advanced Analysis & Reporting
 Status: ✅ Sprint 3 Complete
 
 ---
